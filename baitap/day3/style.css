@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#cha {
+    margin-top: 0;
+}
+/* .con {
+    margin-top: -350px;
+    text-align: center;
+    color: white;
+    position: absolute;
+} */
+img {
+    /* opacity: 0.5; */
+    /* filter: brightness(50%); */
+    position: relative;
+    
+}
+h2 {
+    position: absolute;
+    top: 80px;
+    left: auto;
+    right: auto;
+}po
